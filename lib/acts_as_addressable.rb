@@ -1,0 +1,3 @@
+module ActsAsAddressable
+  # Your code goes here...
+end
