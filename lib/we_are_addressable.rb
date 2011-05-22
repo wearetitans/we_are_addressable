@@ -1,3 +1,3 @@
-module ActsAsAddressable
+module WeAreAddressable
   # Your code goes here...
 end
